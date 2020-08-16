@@ -2,7 +2,7 @@
 
 :computer: I'm a programmer by trade, always looking for that next challenge with a passion for maintainable software that's also pleasant to work with. 
 
-My background is mostly .Net with a good mix. I'm generally in Windows with a heavy reliance on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) for those linux tools. A jack of all trades and picking up more.
+My background is mostly Web on .Net with a good mix of open source tech. I'm generally in Windows with a heavy reliance on [WSL](https://docs.microsoft.com/en-us/windows/wsl/about) for those linux tools. A jack of all trades and picking up more.
 
 <!--
 **bcawrse/bcawrse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
