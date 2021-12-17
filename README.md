@@ -1,8 +1,6 @@
 ### Hello 👋
 
-:computer: I'm a programmer by trade, always looking for that next challenge with a passion for maintainable software that's also pleasant to work with. 
-
-My background is mostly Web with a good mix of open source tech. A jack of all trades and picking up more.
+I'm a software developer who's always looking for that next challenge with a passion for maintainable software that's also pleasant to work with.
 
 <!--
 **bcawrse/bcawrse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
