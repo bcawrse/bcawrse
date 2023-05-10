@@ -2,6 +2,8 @@
 
 I'm a software developer who's always looking for that next challenge with a passion for maintainable software that's also pleasant to work with.
 
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bcawrse&show_icons=true&theme=gotham&count_private=true&hide=issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **bcawrse/bcawrse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
